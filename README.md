@@ -1,1 +1,3 @@
-# Bora Codar
+|                                 #                                 | NAME | REALEASES DATE |                                                 PREVIEW                                                  |
+| :---------------------------------------------------------------: | :--: | :------------: | :------------------------------------------------------------------------------------------------------: |
+| [Code-01](https://github.com/rafael-bogos/boracodar/tree/main/01) |      |    07/03/24    | ![Imagem desafio 01 - boracodar](https://github.com/maykbrito/boracodar/raw/main/01/.github/preview.jpg) |
